@@ -1,0 +1,94 @@
+@media screen and (max-width: 1400px) {
+.banner .welcome{
+  font: 20px;
+  background-color: #feb614;
+  color: white;
+  padding: 30px;
+  position: absolute;
+  left: 0;
+  top: 30px;
+}
+
+.banner .welcome{
+  font-size: 60px;
+}
+
+
+@media screen and (min-width 800px){
+
+}
+
+nav li{
+  font: 18px;
+}
+
+
+
+@media screen and (max-width: 1400px) {
+.banner .welcome{
+  font-size: 20px;
+  background-color: #feb614;
+  color: white;
+  padding: 30px;
+  position: absolute;
+  left: 0;
+  top: 30px;
+}
+
+.banner .welcome{
+  font-size: 40px;
+}
+
+
+@media screen and (max-width: 1400px) {
+.banner .welcome{
+  font-size: 20px;
+  background-color: #feb614;
+  color: white
+  padding: 30px;
+  position: relative;
+  left: 0;
+  top: 30px;
+}
+
+.banner .welcome br{
+  position: relative;
+  text-align: center;
+  padding: 2px;
+}
+
+.banner .welcome br{
+display: none;
+}
+
+.banner .welcome h2{
+font-size: 25px;
+}
+
+.banner .welcome span{
+font-size: 1em;
+}
+
+.images li{
+  width:100%;
+  margin: 20px auto;
+  display: block;
+}
+
+@media screen and (max-width: 560px){
+
+nav li{
+  font-size: 20px;
+  display: block;
+  width: 100%;
+  margin: 12px;
+}
+
+header{
+  position: relative;
+}
+nav{
+  top: 0;
+}
+
+}
